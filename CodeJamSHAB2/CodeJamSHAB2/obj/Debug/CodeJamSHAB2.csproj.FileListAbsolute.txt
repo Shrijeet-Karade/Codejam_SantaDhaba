@@ -1,0 +1,7 @@
+C:\Users\skarade\source\repos\CodeJamSHAB2\CodeJamSHAB2\bin\Debug\CodeJamSHAB2.exe.config
+C:\Users\skarade\source\repos\CodeJamSHAB2\CodeJamSHAB2\bin\Debug\CodeJamSHAB2.exe
+C:\Users\skarade\source\repos\CodeJamSHAB2\CodeJamSHAB2\bin\Debug\CodeJamSHAB2.pdb
+C:\Users\skarade\source\repos\CodeJamSHAB2\CodeJamSHAB2\obj\Debug\CodeJamSHAB2.csprojAssemblyReference.cache
+C:\Users\skarade\source\repos\CodeJamSHAB2\CodeJamSHAB2\obj\Debug\CodeJamSHAB2.csproj.CoreCompileInputs.cache
+C:\Users\skarade\source\repos\CodeJamSHAB2\CodeJamSHAB2\obj\Debug\CodeJamSHAB2.exe
+C:\Users\skarade\source\repos\CodeJamSHAB2\CodeJamSHAB2\obj\Debug\CodeJamSHAB2.pdb
